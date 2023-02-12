@@ -2,3 +2,6 @@ Itron
 Thosiba
 Qualcomm
 AMD
+Capgemini
+Brigosha
+insemi
