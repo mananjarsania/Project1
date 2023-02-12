@@ -5,3 +5,6 @@ AMD
 Capgemini
 Brigosha
 insemi
+Light & Wonder
+Samsung
+Intel
